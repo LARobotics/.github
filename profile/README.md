@@ -7,3 +7,12 @@ The Laboratory of Automation and Robotics is a Research and Development Laborato
 ## Projects
 
 During the years the Laboratory of Automation and Robotics developed and integrated projects in a wide range of areas, such as Agriculture, Healthcare, Domestic Assistance, Social, Industrial and Sportive. The main focus lies on autonomous mobile robotics. However, different problems led to different robotic approaches. Quadcopters, Hexapod Robots, Omnidirectional Platforms, Robotic Arms are some examples of fully described projects LAR presents. In recent projects, the Laboratory has deepened its work regarding Machine Learning.
+
+
+### Links
+ - [Website] <https://lar.dei.uminho.pt/>
+ - [Youtube] <https://www.youtube.com/channel/UCH-gW_OXtj4vT5D1SRobwoA>
+ 
+### Contacts
+ - <fernando@dei.uminho.pt>
+ - <gil@dei.uminho.pt>
