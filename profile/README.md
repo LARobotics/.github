@@ -1,5 +1,5 @@
 # Welcome to the Laboratory of Automation and Robotics.
-<img src="https://lar.dei.uminho.pt/front/img/LAR_logo_dark_v2.png">
+<img src="https://lar.dei.uminho.pt/front/img/LAR_logo_dark_v2.png" width="50%" height="50%">
 
 
 The Laboratory of Automation and Robotics is a Research and Development Laboratory at the University of Minho. A multidisciplinary research team that consists of Professors, PhD and Master's Students and Researchers involved in the development of numerous mobile and autonomous robotics projects. From robots that play soccer to robots that aid in day-to-day household and healthcare chores, knowledge from Electronics Engineering, Mechanical Engineering and Computer Science are used to introduce novel robotics solutions. MinhoTeam is the competitive branch of LAR that focuses on competing and benchmarking its robots in international competitions.
