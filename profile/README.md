@@ -8,6 +8,15 @@ The Laboratory of Automation and Robotics is a Research and Development Laborato
 
 During the years the Laboratory of Automation and Robotics developed and integrated projects in a wide range of areas, such as Agriculture, Healthcare, Domestic Assistance, Social, Industrial and Sportive. The main focus lies on autonomous mobile robotics. However, different problems led to different robotic approaches. Quadcopters, Hexapod Robots, Omnidirectional Platforms, Robotic Arms are some examples of fully described projects LAR presents. In recent projects, the Laboratory has deepened its work regarding Machine Learning.
 
+## Publications
+Scientific contributions showcase the innovative work developed at LAR. The publication of papers in international journals and conferences allow the team to demonstrate its work regarding all different projects in a wide variety of engineering and robotics areas. The published work list, as well as respective links and DOIs, are available here.
+
+## Events
+In order to introduce robotics to the community, LAR also focuses on organizing different events for all ages. Robotics educational events, like RoboParty and Summer robotics schools, allow the community to interact and learn how to build robots, solder, program and participate in different challenges. Competitive robotics events have also been organized by LAR both at national and international level. Other social initiatives include school lectures and toy’s adaptation for children with cerebral palsy.
+Also, LAR’s competitive branch MinhoTeam, participates in national and international competitions to benchmark its robotic solutions while studying and working with teams from all over the world.
+
+## Research Team
+Throughout the years numerous students have integrated LAR and MinhoTeam research teams. Professors, Researchers, PhD Students, Master Students and Collaborators have all contributed to the success of our robots. Multidisciplinary team with electronics engineers, mechanical engineers and informatics engineers, showcase the range of different engineering projects developed by LAR.
 
 ### Links
  - [Website] <https://lar.dei.uminho.pt/>
