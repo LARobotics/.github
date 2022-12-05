@@ -23,6 +23,7 @@ Throughout the years numerous students have integrated LAR and MinhoTeam researc
  - [Youtube] <https://www.youtube.com/channel/UCH-gW_OXtj4vT5D1SRobwoA>
  - [Instagram] <https://www.instagram.com/lar_uminho>
  - [TikTok] <https://www.tiktok.com/@lar_uminho>
+ - [Facebook] <https://www.facebook.com/profile.php?id=100088692420376>
  
 ### Contacts
  - <fernando@dei.uminho.pt>
